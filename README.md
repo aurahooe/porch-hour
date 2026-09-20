@@ -1,2 +1,4 @@
-# porch-hour
-A living porch. Notes, a public rail, and something new every hour.
+# Porch
+
+A small living site. Sign in, write notes, pin the ones you want on the public rail.
+An hourly log records what changed in the house.
